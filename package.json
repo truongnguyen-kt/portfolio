@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This repository contains my portfolio showcasing my projects and skills in backend development using Java Spring Boot, as well as my experience in various technologies such as Java, C++, HTML-CSS, ReactJS, and more. Feel free to explore my work and contributions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongnguyen-kt/portfolio.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "truongnguyen-kt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongnguyen-kt/portfolio/issues"
+  },
+  "homepage": "https://github.com/truongnguyen-kt/portfolio#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
